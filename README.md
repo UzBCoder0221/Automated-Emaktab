@@ -12,4 +12,9 @@ Ensure you have the following Python libraries installed:
 Install modules using pip:
 ```sh
 pip install requests beautifulsoup4 fake_useragent
+```
+or
 
+```sh
+pip install -r requirements.txt
+```
